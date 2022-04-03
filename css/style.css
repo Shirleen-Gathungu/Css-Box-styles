@@ -1,0 +1,25 @@
+.linea{
+   
+    border: solid 6px orchid;
+    padding: 70px 20px 70px 50px ;
+   margin: 300px 300px;
+
+}
+.lineb{
+    text-align: center;
+    border: solid 6px purple;
+    padding: 80px 50px 20px 50px;
+
+}
+
+.linec{
+    text-align: center;
+    border:solid 10px yellow;
+    padding: 100px 100px;
+    
+}
+h1{
+  
+    text-align: center;
+
+}
